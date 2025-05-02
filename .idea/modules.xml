@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/instacarrt.iml" filepath="$PROJECT_DIR$/.idea/instacarrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instacarrt.iml" filepath="$PROJECT_DIR$/instacarrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/instacarrt_android.iml" filepath="$PROJECT_DIR$/android/instacarrt_android.iml" />
     </modules>
   </component>
 </project>
